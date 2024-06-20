@@ -1,0 +1,4 @@
+Lately, clients and reviewers want to see pie charts arranged in two columns on one page.
+For that I created a small function that takes a data frame and a list of categorical features of any length.
+There is also a small example of placing histograms and boxplots in the same field.
+As usual, I use Plotly tools to create beautiful and useful diagrams.
