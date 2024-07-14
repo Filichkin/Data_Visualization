@@ -1,6 +1,5 @@
 ## Superstore orders time series
 
-- data analisys;
-- Time series data selection and visualization;
-- Model creation;
-- Simple dashboard creation
+Time series analisys and visualization using data from sample superstore's sales and profit
+
+As a result it is creation of simple dashboard where using the slider you can select model forecast period and receive predicted data in real time
