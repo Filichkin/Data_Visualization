@@ -1,0 +1,66 @@
+body {
+    margin: 5px 10px 5px 10px;
+    font-family: 'KiaSignatureRegular', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #666;
+    background-color: #ece6e0;
+    letter-spacing: 0;
+    
+}
+
+.body_div {
+border: 1px solid #665544;
+overflow: auto;
+padding: 5px;
+width:100%;
+}
+
+.figure {
+text-transform: uppercase;
+max-width: 100%;
+}
+
+
+h1 {
+    margin: 1em 0 0.5em 0;
+    font-weight: 520;
+    letter-spacing: 1px;
+    font-family: 'KiaSignatureRegular', sans-serif;
+    position: relative;
+    font-size: 28px;
+    line-height: 22px;
+    padding: 15px 15px 15px 1%;
+    color: white;
+    background: #616161;
+    box-shadow: inset 0 0 5px rgba(53,86,129, 0.5);
+    border-radius: 3px 3px 3px 3px;
+
+}
+
+h2 {
+    margin: 1em 0 0.5em 0;
+    font-weight: 550;
+    font-family: 'KiaSignatureRegular', sans-serif;
+    position: relative;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 16px;
+    padding: 15px 15px 15px 1%;
+    color: white;
+    background: #616161;
+    box-shadow: inset 0 0 5px rgba(53,86,129, 0.5);
+    border-radius: 3px 3px 3px 3px;
+ 
+}
+
+.slider-track{
+    width: 100%;
+    max-width: 1000px;
+    height: 40px;
+    margin: 20px;
+    text-align: center;
+    font-weight: 520;
+    border-radius: 20px;
+    position: relative;
+}
