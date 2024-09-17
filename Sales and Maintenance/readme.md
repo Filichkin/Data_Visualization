@@ -8,4 +8,4 @@
 <li>Pie charts</li>
 </ol>
 
-<img srs="https://github.com/Filichkin/Data_Visualization/blob/a2ff628502c169a6ead3d766a2eef3375d6e73f1/Sales%20and%20Maintenance/hist_1.png"/>
+<img srs="https://github.com/Filichkin/Data_Visualization/blob/a2ff628502c169a6ead3d766a2eef3375d6e73f1/Sales%20and%20Maintenance/hist_1.png" />
